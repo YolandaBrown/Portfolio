@@ -1,0 +1,55 @@
+
+    body {
+     font-family: Arial, Helvetica, sans-serif;
+     padding-top: 15px;
+    
+  }
+ 
+  .navbar {
+    background-color: red;
+  }
+
+   #About { 
+     margin-top: 20px;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     font-size: 25px;
+     font-weight: 8px;
+     
+   }
+   label {
+     text-align: left;
+   }
+
+   #contactform {
+     text-align: center;
+    }
+
+   .date {
+     float: right;
+     margin-right: 35px;
+   }
+ 
+   h2 {
+     font-size: 30px;
+     color: black;
+    text-align: center;
+   }
+ 
+   h3 {
+     color: darkblue;
+     display: block;
+   }
+ 
+   #download-resume-button {
+    margin-left: 40%;
+  }
+
+   .container-sm {
+     height: auto;
+   }
+
+   .py-0{
+     height: 95px !important;
+   }
+   
+     
